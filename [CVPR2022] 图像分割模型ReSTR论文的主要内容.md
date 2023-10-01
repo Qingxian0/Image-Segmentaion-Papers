@@ -1,4 +1,4 @@
-# [CVPR2022] 图像分割模型ReSTR论文的主要内容
+# [CVPR2022] 参考图像分割模型ReSTR论文的主要内容
 
 > 论文全称：《ReSTR: Convolution-free Referring Image Segmentation Using Transformers》
 > 论文链接：[论文链接](https://arxiv.org/abs/2203.16768)
